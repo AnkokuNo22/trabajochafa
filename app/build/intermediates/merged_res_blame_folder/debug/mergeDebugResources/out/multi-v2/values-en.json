@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.multiidiomafondo.app-mergeDebugResources-29:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dbuit\\Downloads\\MultiIdiomaFondo_IntelliJ\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,77",
+                        "endColumns": "60,43",
+                        "endOffsets": "72,116"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endColumns": "60,43",
+                        "endOffsets": "111,155"
+                    }
+                }
+            ]
+        }
+    ]
+}
